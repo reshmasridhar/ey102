@@ -11,7 +11,7 @@ public class DemoController {
 	@GetMapping
 	public String home()
 	{
-		return "welcome Home";
+		return "welcome Spring Home";
 	}
 
 }
